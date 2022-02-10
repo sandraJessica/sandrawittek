@@ -1,0 +1,145 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  font-weight: lighter;
+  color: #276678;
+  margin: auto;
+  padding-top: 142px;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.4rem;
+  font-weight: normal;
+  color: #276678;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: #D3E0EA;
+  width: 4%;
+  margin: 100px auto;
+}
+
+p {
+  line-height: 2;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 520px;
+  left: 300px;
+}
+
+.bottom-container {
+  margin: 80px auto 0 auto;
+  background-color: #276678;
+  padding: 50px 0 10px 0;
+}
+
+.btn {
+  color: white;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.button {
+  background-image: linear-gradient(to right, #11999E, #276678);
+  width: 25%;
+  padding: 5px 0;
+  margin: 30px auto;
+  border-radius: 8px;
+}
+
+.button:hover {
+  background-image: linear-gradient(to right, #19dce3, #3795b0);
+}
+
+.cam-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.coding-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.copyright {
+  color: #D3E0EA;
+  font-size: 0.75rem;
+  padding: 40px 0 20px 0;
+}
+
+.contact-me {
+  width: 50%;
+  margin: auto;
+}
+
+.dive-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.footer-link {
+  color: #3795b0;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.footer-link:hover {
+  color: white;
+}
+
+.top-container {
+  background-color: #D3E0EA;
+  position: relative;
+  background-image: url(https://cdn.pixabay.com/photo/2020/09/30/17/15/palm-5616481_1280.png);
+	height: 900px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.me-img {
+  margin: 60px auto 10px auto;
+}
+
+.profile {
+  width: 50%;
+  margin: auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 80px auto 130px auto;
+  text-align: left;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 60px;
+}
+
+.tropical-img {
+  margin: auto;
+  width: 100%;
+}
